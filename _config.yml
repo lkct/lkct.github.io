@@ -1,5 +1,6 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: My Homepage
+description: This is the personal homepage of Kunchangtai Liang.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+group: http://www.icst.pku.edu.cn/struct
