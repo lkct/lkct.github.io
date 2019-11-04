@@ -3,5 +3,5 @@ description: This is the personal homepage of Kunchangtai Liang.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-group: http://www.icst.pku.edu.cn/struct
 cv: /lkct_CV.pdf
+struct: http://www.icst.pku.edu.cn/struct
