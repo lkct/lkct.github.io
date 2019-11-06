@@ -3,7 +3,7 @@ layout: default
 ---
 
 <center>
-<img src="/assets/images/liangkunchangtai.jpg" alt="img" height='200' width='200' />
+<img src="/assets/images/liangkunchangtai.jpg" alt="img" width='200' />
 <h1>Kunchangtai Liang</h1>
 <p>Undergraduate</p>
 </center>
