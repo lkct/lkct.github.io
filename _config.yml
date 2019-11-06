@@ -4,4 +4,3 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 cv: /lkct_CV.pdf
-struct: http://www.icst.pku.edu.cn/struct

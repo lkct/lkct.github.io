@@ -10,11 +10,11 @@ layout: default
 
 ## Experience
 #### Intern (07/2019 - 08/2019)
-Peng Cheng Laboratory (Shenzhen, China)  
+[Peng Cheng Laboratory](http://www.szpclab.com/) (Shenzhen, China)  
 Advisor: Prof. Tao Mei
 
 #### Intern (09/2017 - 01/2019)
-STRUCT Group, Wangxuan Institute of Computer Technology, Peking University  
+[STRUCT Group](http://39.96.165.147/), Wangxuan Institute of Computer Technology, Peking University  
 Advisor: Prof. Jiaying Liu
 
 #### Undergraduate (09/2016 - Present)
