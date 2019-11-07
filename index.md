@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Homepage of KCT Liang
+
 ## Research Interest
 * Deep Learning
 * Computer Vision
