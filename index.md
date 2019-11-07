@@ -20,5 +20,5 @@ Bachelor of Science to be received in 06/2020
 Advisor: Prof. Tao Mei
 
 #### Intern (09/2017 - 01/2019)
-[STRUCT Group](http://www.icst.pku.edu.cn/struct), Wangxuan Institute of Computer Technology, Peking University  
+[STRUCT Group](http://www.icst.pku.edu.cn/struct), Wangxuan Institute of Computer Technology, PKU  
 Advisor: Prof. Jiaying Liu
