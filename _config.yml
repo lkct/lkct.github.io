@@ -1,6 +1,7 @@
 title: KCT Liang's Homepage
-logo: /assets/img/photo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/photo.jpg
+description: Kunchangtai Liang
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+cv_link: /lkct_CV.pdf
