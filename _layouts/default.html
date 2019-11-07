@@ -16,11 +16,14 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <p>{{ site.description }}</p>
+
         {% if site.photo %}
           <img src="{{site.photo | relative_url}}" alt="Photo" />
         {% endif %}
 
-        <p>{{ site.description }}</p>
+        <strong>Kunchangtai Liang</strong>
+        <p>Undergraduate of EECS, PKU</p>
 
         <!--
         {% if site.github.is_project_page %}
