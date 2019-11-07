@@ -5,4 +5,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 cv_link: /lkct_CV.pdf
-email: lkct@pku.edu.cn
+email: mailto:lkct@pku.edu.cn
