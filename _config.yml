@@ -1,6 +1,8 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Rickey K. Liang
+photo: /assets/img/photo.jpg
+description: This is the personal homepage of Kunchangtai Liang.
 show_downloads: true
-google_analytics:
+# google_analytics:
 theme: jekyll-theme-minimal
+cv_link: /lkct_CV.pdf
+email: mailto:K.Liang-4_at_sms.ed.ac.uk
