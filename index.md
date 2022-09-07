@@ -7,28 +7,38 @@ layout: default
 ## Research Interest
 * Machine Learning
 * Computer Vision
-* Human Action Analysis
-* Robotics
+* Neural Computation
+* Neuro-symbolic AI
+* Probabilistic Models
+* AI Explainablity
 
 ## Experience
-#### Postgraduate Student, Master's [09/2021 - Present]
-School of Informatics, [University of Edinburgh](https://www.ed.ac.uk/)  
-Master of Science (expected, 08/2022)
+#### Master of Science (pending) [09/2021 - 08/2022]
+[School of Informatics](https://www.ed.ac.uk/informatics), [University of Edinburgh](https://www.ed.ac.uk/)  
+Dissertation: Re-implementation and Optimization of a Scalable Spike Detection Algorithm for Large-Scale Extracellular Recordings  
+Supervisor: [Dr Matthias H. Hennig](https://homepages.inf.ed.ac.uk/mhennig/)
 
 #### Core Researcher (Intern) [08/2020 - 08/2021]
 R&D Group, [iFLYTEK Corporation](https://www.iflytek.com/en/)  
-Supervisor: Zhiguo Wang  
-Manager: Jiajia Wu
+Focus: Scene Text Detection and OCR  
+Supervisor: Zhiguo Wang
 
-#### Undergraduate Student [09/2016 - 07/2020]
-School of Electronics Engineering and Computer Science, [Peking University](https://english.pku.edu.cn/)  
-Bachelor of Science (07/2020)
-Thesis: Research on Local Feature Extraction and Video Coding for Machines Based on Neural Networks
+#### Bachelor of Science [09/2016 - 07/2020]
+[School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/index.htm), [Peking University](https://english.pku.edu.cn/)  
+Thesis: Research on Local Feature Extraction and Video Coding for Machines Based on Neural Networks  
+Supervisor: [Dr Jiaying Liu](http://39.96.165.147/people/liujiaying.html)
+
+#### Undergraduate Intern [09/2017 - 06/2020]
+[STRUCT Group](http://39.96.165.147/), [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/), PKU  
+Focus: Video understanding  
+Supervisor: [Dr Jiaying Liu](http://39.96.165.147/people/liujiaying.html)
 
 #### Research Intern [07/2019 - 08/2019]
 Robotics Research Center, [Peng Cheng Laboratory](http://www.szpclab.com/)  
-Advisor: Prof. Tao Mei
+Focus: ROV control  
+Supervisor: Prof Tao Mei
 
-#### Undergraduate Intern [09/2017 - 01/2019]
-[STRUCT Group](http://39.96.165.147/), Wangxuan Institute of Computer Technology, PKU  
-Advisor: Dr. Jiaying Liu
+#### Research Intern [09/2017 - 01/2018]
+Introduction to Computation (A), School of EECS, PKU
+Duties: Q/A, marking, exam supervision
+Supervisor: [Prof Yafei Dai](https://cs.pku.edu.cn/info/1058/1295.htm)
