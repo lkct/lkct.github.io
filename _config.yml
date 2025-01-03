@@ -1,11 +1,10 @@
 title: Rickey K. Liang
-description: This is the personal homepage of Kunchangtai Liang.
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+photo: /assets/img/photo.jpg
+description: This is the personal homepage of Kunchangtai (Rickey) Liang.
 show_downloads: true
 # google_analytics:
-photo: /assets/img/photo.jpg
+theme: jekyll-theme-minimal
+
 cv_link: /CV_RLiang.pdf
 cv_zh_link: /lkct_CV_zh.pdf
-email: mailto:liangkct_at_yahoo.com
+email: mailto:liang_at_cs.uni-saarland.de
