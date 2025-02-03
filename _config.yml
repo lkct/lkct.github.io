@@ -5,6 +5,6 @@ show_downloads: true
 # google_analytics:
 theme: jekyll-theme-minimal
 
-cv_link: /CV_RLiang.pdf
+cv_link: /CV_KLiang.pdf
 cv_zh_link: /lkct_CV_zh.pdf
 email: mailto:liang_at_cs.uni-saarland.de
